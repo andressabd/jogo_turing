@@ -1,6 +1,6 @@
-# O Estudante de Turing (2D)
+# O Estudante de Turing - É O CORREDOR (2D)
 
-**"O Estudante de Turing"** é um jogo de plataforma 2D que combina ação e aprendizado. O jogador explora um mundo inspirado em conceitos matemáticos e computacionais, com o objetivo de coletar itens que representam temas fundamentais da ciência da computação e da matemática.
+**"O Estudante de Turing"**  é um jogo de plataforma 2D que combina ação e aprendizado. O jogador explora um mundo inspirado em conceitos matemáticos e computacionais, com o objetivo de coletar itens que representam temas fundamentais da ciência da computação e da matemática.
 
 Ao longo do jogo, o jogador enfrenta desafios educativos, como resolver puzzles baseados em álgebra, lógica e a Máquina de Turing. O objetivo é "passar de ano" ao coletar todos os itens e aprender sobre esses tópicos. Caso o jogador falhe em completar sua missão, ele será "reprovado" e terá que tentar novamente.
 
