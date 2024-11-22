@@ -29,6 +29,5 @@ Ao longo do jogo, o jogador enfrenta desafios educativos, como resolver puzzles 
 
 ## Referências
 
-- [**Download** do jogo](https://github.com/zigurous/unity-super-mario-tutorial/archive/refs/heads/main.zip)
 - [**Playlist de Vídeos** sobre o desenvolvimento](https://youtube.com/playlist?list=PLqlFiJjSZ2x1mrMpSQgYdRm8PyWRTg6He)
 - [**Demonstrativo do Jogo**](https://drive.google.com/drive/folders/1G80EE0ex3cmLl1H53WjLMLoz042qosqr)
