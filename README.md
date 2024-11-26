@@ -20,6 +20,45 @@ Ao longo do jogo, o jogador enfrenta desafios educativos, como resolver puzzles 
 - **Recompensas**: Aprendizado de tópicos como a Máquina de Turing, álgebra, lógica e mais
 - **Desafios**: Puzzles que exigem raciocínio lógico e compreensão de conceitos de computação
 
+hecklist para o Projeto de Algoritmo em Computabilidade e Complexidade de Algoritmo
+
+Fase 1: Análise [ ] 
+
+[ Eduardo Alexando ] Problema selecionado e definido claramente.
+[ Cauã e Eduardo Alexandro ]  Compreensão aprofundada da natureza e desafios do problema.
+[ nEduarod Roberto ] Modelo matemático ou teórico desenvolvido para representar o problema.
+Fase 2: Planejamento [ ] 
+
+ [ Cauã e Eduardo Alexandro ] Objetivos do algoritmo definidos com clareza.
+ [ Eduardo Roberto ] Métricas para avaliação de eficiência do algoritmo estabelecidas.
+ [ Cauã e Eduardo Alexandro ] Estratégia geral de resolução do problema proposta.
+ [ Cauã e Eduardo Alexandro ] Subproblemas identificados e divididos, se aplicável.
+ [ Eduardo A ] Estrutura geral do algoritmo esboçada.
+ [ nome ] Casos limite ou situações especiais identificados.
+ [ nome ] Análise teórica realizada para verificar a correção do algoritmo.
+Fase 3: Desenho [ ] 
+
+ [ Eduardo ] Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.
+ [  ] Pontos críticos do algoritmo identificados para otimização, se necessário.
+Fase 4: Programação e Teste [ ] 
+
+[ Eduardo Roberto ] Algoritmo traduzido com precisão em código de programação.
+[ Cauã ] Código de programação escrito de forma clara e organizada.
+[ Cauã ]  Testes rigorosos realizados em uma variedade de casos de teste.
+[ Eduardo alexandro  ] Casos limite e situações especiais testados.
+[ Cauã ] Erros e problemas durante o teste de programa identificados e corrigidos.
+Documentação e Avaliação do Projeto [ ] 
+
+ [ Andressa ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
+ [ Andressa ] Documentação revisada para clareza e rigor técnico.
+ [ Cauã ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.
+ [ Eduardo alexandro ] Avaliação da colaboração da equipe e cumprimento dos prazos.
+Apresentação e Conclusão do Projeto [ ] 
+
+[ Cauã ] Apresentação do projeto preparada com informações claras e objetivas.
+[ Andressa ] Conclusões do projeto destacando os resultados e aprendizados.
+[ Cauã ] Discussão sobre o projeto e respostas a perguntas da audiência.
+
 ## Autores
 
 - **Cauã Brito** – 29696941
