@@ -20,7 +20,7 @@ Ao longo do jogo, o jogador enfrenta desafios educativos, como resolver puzzles 
 - **Recompensas**: Aprendizado de tópicos como a Máquina de Turing, álgebra, lógica e mais
 - **Desafios**: Puzzles que exigem raciocínio lógico e compreensão de conceitos de computação
 
-hecklist para o Projeto de Algoritmo em Computabilidade e Complexidade de Algoritmo
+## Checklist
 
 Fase 1: Análise [✅] 
 
