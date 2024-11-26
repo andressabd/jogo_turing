@@ -22,7 +22,7 @@ Ao longo do jogo, o jogador enfrenta desafios educativos, como resolver puzzles 
 
 hecklist para o Projeto de Algoritmo em Computabilidade e Complexidade de Algoritmo
 
-Fase 1: Análise [ ] 
+Fase 1: Análise [✅] 
 
 [ Eduardo Alexando ] Problema selecionado e definido claramente.
 [ Cauã e Eduardo Alexandro ]  Compreensão aprofundada da natureza e desafios do problema.
@@ -34,20 +34,20 @@ Fase 2: Planejamento [ ]
  [ Cauã e Eduardo Alexandro ] Estratégia geral de resolução do problema proposta.
  [ Cauã e Eduardo Alexandro ] Subproblemas identificados e divididos, se aplicável.
  [ Eduardo A ] Estrutura geral do algoritmo esboçada.
- [ nome ] Casos limite ou situações especiais identificados.
- [ nome ] Análise teórica realizada para verificar a correção do algoritmo.
-Fase 3: Desenho [ ] 
+ [ Eduado Alexandro ] Casos limite ou situações especiais identificados.
+ [ Cauã e Eduardo Alexandro ] Análise teórica realizada para verificar a correção do algoritmo.
+Fase 3: Desenho [✅] 
 
- [ Eduardo ] Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.
+ [ Eduardo Alexandro ] Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.
  [  ] Pontos críticos do algoritmo identificados para otimização, se necessário.
-Fase 4: Programação e Teste [ ] 
+Fase 4: Programação e Teste [✅] 
 
 [ Eduardo Roberto ] Algoritmo traduzido com precisão em código de programação.
 [ Cauã ] Código de programação escrito de forma clara e organizada.
 [ Cauã ]  Testes rigorosos realizados em uma variedade de casos de teste.
 [ Eduardo alexandro  ] Casos limite e situações especiais testados.
 [ Cauã ] Erros e problemas durante o teste de programa identificados e corrigidos.
-Documentação e Avaliação do Projeto [ ] 
+Documentação e Avaliação do Projeto [✅] 
 
  [ Andressa ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
  [ Andressa ] Documentação revisada para clareza e rigor técnico.
